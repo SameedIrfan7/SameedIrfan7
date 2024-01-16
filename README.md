@@ -19,18 +19,18 @@
 <div id="bio">
   <h2>About Me</h2>
   <ul>
-    <li>I'm a [your job title] and [your interests/hobbies]</li>
-    <li>I'm passionate about [what you're passionate about]</li>
-    <li>I'm constantly learning and updating my skills to stay up-to-date with the latest technologies.</li>    <li>I'm currently seeking new opportunities to apply my knowledge and expertise in the [your field] space.</li>
+    <li>I'm a Student and i learn daily</li>
+    <li>I'm passionate about ML, DL, TL and Neural Networks</li>
+    <li>I'm constantly learning and updating my skills to stay up-to-date with the latest technologies.</li>    <li>I'm currently seeking new opportunities to apply my knowledge and expertise in the Machine-Learning space.</li>
     <li>I enjoy documenting my projects on Medium to gain a deeper understanding of my work.</li>
-    <li>Focusing on learning [languages or technologies you're currently studying] right now.</li>
+    <li>Focusing on learning Python, C++, C, Js, HTML, CSS, DJango, Flask right now.</li>
   </ul>
 </div>
 
 <div id="stats">
   <h2>Stats</h2>
-  <img src="https://streak-stats.demolab.com?user=[your username]&theme=transparent&fire=EB5454" alt="GitHub Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[your username]&layout=compact&theme=vision-friendly-dark" alt="Top Languages"/>
+  <img src="https://streak-stats.demolab.com?user=SameedIrfan7&theme=transparent&fire=EB5454" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SameedIrfan7&layout=compact&theme=vision-friendly-dark" alt="Top Languages"/>
 </div>
 
 <div id="skills">
@@ -51,36 +51,3 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg" title="R" alt="R" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/d3js/d3js-original.svg"  title="D3" alt="D3" width="40" height="40"/>&nbsp;
   <div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-- 👋 Hi, I’m @SameedIrfan7
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-SameedIrfan7/SameedIrfan7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
