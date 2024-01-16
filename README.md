@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <h1>Hello there, I'm Sameed Irfan</h1>
-  <img src="git_image.jpeg" width="200" />
+  <img src="bg_git.jpg" width="200" />
   <p>My profile will talk about myself</p>
 </div>
 
