@@ -36,10 +36,12 @@
 <div id="skills">
   <h2>Skills</h2>
   <ul>
-    <li>[your first skill]</li>
-    <li>[your second skill]</li>
-    <li>[your third skill]</li>
-    <li>[your fourth skill]</li>
+    <li>Python for Web-Development, Machine learning</li>
+    <li>DSA in c++</li>
+    <li>Davinci Resolve</li>
+    <li>Deep Learnging, Transfer Learning, Neural Networks</li>
+    <li>Mongo DB</li>
+    <li>HTML, CSS, JS & some Frameworks</li>
   </ul>
 </div>
 
