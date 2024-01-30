@@ -22,13 +22,7 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=SameedIrfan7&theme=transparent&fire=EB5454)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SameedIrfan7&layout=compact&theme=vision-friendly-dark)
-
-## 📊 Top Language
-
-![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=SameedIrfan7&theme=vision-friendly-dark&hide=html,css&langs_count=1)
-
 
 ## 🚀 Skills
 
