@@ -1,11 +1,15 @@
+<div align="center">
+
 # 👋 Hello, I'm Sameed Irfan
 
 # 💫 About Me:
 🔭 **I’m currently working on:**  <br>Improving my skills on Web-dev and Machine Learning.<br><br>👯 **I’m looking to collaborate on:**  <br>Fullstack projects<br><br>🌱 **I’m currently learning:**  <br>PostgreSQL and Node Js<br><br>💬 **Ask me about:**  <br>JavaScript, Node.js, and any general software development questions.<br><br>⚡ **Sad fact:**  <br>I'am addicted to learn.
 
-<div align="center">
+
 ## 🌐 Socials:
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ezSnippet) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ezSnippet) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ezSnippet) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20331641) 
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)]() [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_si_007) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/sameedirfan7)[![Medium](https://img.shields.io/badge/Medium-%230077B5.svg?logo=medium&logoColor=white)](https://medium.com/@sameedirfan7)
+
+
 
 # 💻 Tech Stack:
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
