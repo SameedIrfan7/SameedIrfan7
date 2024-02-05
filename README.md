@@ -3,7 +3,7 @@
 # 👋 Hello, I'm Sameed Irfan
 
 # 💫 About Me:
-🔭 **I’m currently working on:**  <br>Improving my skills on Web-dev and Machine Learning.<br><br>👯 **I’m looking to collaborate on:**  <br>Fullstack projects<br><br>🌱 **I’m currently learning:**  <br>PostgreSQL and Node Js<br><br>💬 **Ask me about:**  <br>JavaScript, Node.js, and any general software development questions.<br><br>⚡ **Sad fact:**  <br>I'am addicted to learn.
+🔭 **I’m currently working on:**  <br>Improving my skills on Web-dev and Machine Learning.<br><br>👯 **I’m looking for teammates to collaborate on:**  <br> Projects<br><br>🌱 **I’m currently learning:**  <br>PostgreSQL and Node Js<br><br>💬 **Ask me about:**  <br>Machine learning, Web-Dev, and any general software development questions and others too.<br><br>⚡ **fact:**  <br>I'am addicted to learn.
 
 
 ## 🌐 Socials:
