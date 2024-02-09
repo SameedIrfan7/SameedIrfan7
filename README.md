@@ -3,7 +3,7 @@
 # 👋 Hello, I'm Sameed Irfan
 
 # 💫 About Me:
-🔭 **I’m currently working on:**  <br>Improving my skills on Web-dev and Machine Learning.<br><br>👯 **I’m looking for teammates to collaborate on:**  <br> Projects<br><br>🌱 **I’m currently learning:**  <br>PostgreSQL and Node Js<br><br>💬 **Ask me about:**  <br>Machine learning, Web-Dev, and any general software development questions and others too.<br><br>⚡ **fact:**  <br>I'am addicted to learn.
+🔭 **I’m currently working on:**  <br>Improving my skills on Web-dev and Machine Learning.<br><br>👯 **I’m looking for teammates to collaborate on:**  <br> Projects<br><br>🌱 **I’m currently learning:**  <br>PostgreSQL and Node Js<br><br>💬 **Ask me about:**  <br>Machine learning, Web-Dev, and any general software development questions and others too.<br><br>⚡ **fact:**  <br>I'am addicted to learn.<br>[![Portfolio](https://img.shields.io/badge/Portfolio-%230066B2.svg?style=for-the-badge&logo=web&logoColor=white)](https://sameedirfangenz.freewebhostmost.com)
 
 
 ## 🌐 Socials:
@@ -37,16 +37,12 @@
 
 
 # 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SameedIrfan7&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ![](https://github-readme-stats.vercel.app/api?username=SameedIrfan7&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SameedIrfan7&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SameedIrfan7&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=SameedIrfan7&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 
 ---
-[![Portfolio](https://img.shields.io/badge/Portfolio-%230066B2.svg?style=for-the-badge&logo=web&logoColor=white)](https://sameedirfangenz.freewebhostmost.com)
 
 </div>
