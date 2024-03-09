@@ -2,8 +2,11 @@
 
 # 👋 Hello, I'm Sameed Irfan
 
+## Qoute of the session
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 # 💫 About Me:
-🔭 **I’m currently working on:**  <br>Improving my skills on Web-dev and Machine Learning.<br><br>👯 **I’m looking for teammates to collaborate on:**  <br> Projects<br><br>🌱 **I’m currently learning:**  <br>PostgreSQL and Node Js<br><br>💬 **Ask me about:**  <br>Machine learning, Web-Dev, and any general software development questions and others too.<br><br>⚡ **fact:**  <br>I'am addicted to learn. <br> [![Portfolio](https://img.shields.io/badge/Portfolio-%230066B2.svg?style=for-the-badge&logo=web&logoColor=white)](https://sameedirfangenz.freewebhostmost.com)
+🔭 **I’m currently working on:**  <br>Improving my skills on Web-dev and Machine Learning.<br><br>👯 **I’m looking for teammates to collaborate on:**  <br> Projects<br><br>🌱 **I’m currently learning:**  <br>Deep Learning and Neural Networks<br><br>💬 **Ask me about:**  <br>Machine learning, Web-Dev, and any general software development questions and others too.<br><br>⚡ **fact:**  <br>I'am addicted to learn. <br> [![Portfolio](https://img.shields.io/badge/Portfolio-%230066B2.svg?style=for-the-badge&logo=web&logoColor=white)](https://sameedirfangenz.freewebhostmost.com)
 
 
 ## 🌐 Socials:
@@ -36,11 +39,7 @@
 ![OpenCV](https://img.shields.io/badge/OpenCV-%235C3EE8.svg?style=for-the-badge&logo=opencv&logoColor=white)
 
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-
-### 😂 Random Dev Meme
+## 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 [![](https://visitcount.itsvg.in/api?id=SameedIrfan7&icon=0&color=0)](https://visitcount.itsvg.in)
