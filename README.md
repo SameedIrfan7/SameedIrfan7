@@ -1,8 +1,7 @@
 <div align="center">
-# Profile Count
-![](https://visitcount.itsvg.in/api?id=SameedIrfan7&icon=0&color=0)](https://visitcount.itsvg.in)
 
 # 👋 Hello, I'm Sameed Irfan
+[![](https://visitcount.itsvg.in/api?id=SameedIrfan7&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## Qoute of the session
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
